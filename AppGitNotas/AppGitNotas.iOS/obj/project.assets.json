@@ -1051,11 +1051,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\PERSONAL\\Desktop\\Moviles\\AppNotas\\AppGitNotas\\AppGitNotas.iOS\\AppGitNotas.iOS.csproj",
+      "projectUniqueName": "C:\\Users\\PERSONAL\\Desktop\\Francko\\Moviles\\AppNotas\\AppGitNotas\\AppGitNotas.iOS\\AppGitNotas.iOS.csproj",
       "projectName": "AppGitNotas.iOS",
-      "projectPath": "C:\\Users\\PERSONAL\\Desktop\\Moviles\\AppNotas\\AppGitNotas\\AppGitNotas.iOS\\AppGitNotas.iOS.csproj",
+      "projectPath": "C:\\Users\\PERSONAL\\Desktop\\Francko\\Moviles\\AppNotas\\AppGitNotas\\AppGitNotas.iOS\\AppGitNotas.iOS.csproj",
       "packagesPath": "C:\\Users\\PERSONAL\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\PERSONAL\\Desktop\\Moviles\\AppNotas\\AppGitNotas\\AppGitNotas.iOS\\obj\\",
+      "outputPath": "C:\\Users\\PERSONAL\\Desktop\\Francko\\Moviles\\AppNotas\\AppGitNotas\\AppGitNotas.iOS\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
@@ -1076,8 +1076,8 @@
       "frameworks": {
         "xamarinios10": {
           "projectReferences": {
-            "C:\\Users\\PERSONAL\\Desktop\\Moviles\\AppNotas\\AppGitNotas\\AppGitNotas\\AppGitNotas.csproj": {
-              "projectPath": "C:\\Users\\PERSONAL\\Desktop\\Moviles\\AppNotas\\AppGitNotas\\AppGitNotas\\AppGitNotas.csproj"
+            "C:\\Users\\PERSONAL\\Desktop\\Francko\\Moviles\\AppNotas\\AppGitNotas\\AppGitNotas\\AppGitNotas.csproj": {
+              "projectPath": "C:\\Users\\PERSONAL\\Desktop\\Francko\\Moviles\\AppNotas\\AppGitNotas\\AppGitNotas\\AppGitNotas.csproj"
             }
           }
         }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "8HskNn2v/0yd+NExTYDa+tj0SbpaYczx+Yb/OlzAkX7hXpS7/f6KZO+9/3j0DYYU0p3l8km3UIGQAW8g13mCLA==",
+  "dgSpecHash": "lgRxumdCbbf6+p90SmLDgily/UqLRBm72Ur6uPJ359tOF4QAEKVFwM5nHLNulO6wjCh07ArNToYkhwLDnu2xQw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\PERSONAL\\Desktop\\Moviles\\AppNotas\\AppGitNotas\\AppGitNotas\\AppGitNotas.csproj",
+  "projectFilePath": "C:\\Users\\PERSONAL\\Desktop\\Francko\\Moviles\\AppNotas\\AppGitNotas\\AppGitNotas\\AppGitNotas.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\PERSONAL\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\PERSONAL\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",

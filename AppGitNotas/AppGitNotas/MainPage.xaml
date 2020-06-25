@@ -6,8 +6,8 @@
              mc:Ignorable="d"
              x:Class="AppGitNotas.MainPage" Title="Notas">
 
-    <StackLayout>
-        <Label Text="Notas" HorizontalOptions="Center" FontAttributes="100"/>
+    <StackLayout Margin="10, 35, 10, 10">
+        <Label Text="Notas" HorizontalOptions="Center" FontAttributes="Bold"/>
         <Editor x:Name="txteditor" Placeholder="Escriba su nota" HeightRequest="100"/>
         <Grid>
             <Grid.ColumnDefinitions>

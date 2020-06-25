@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\PERSONAL\\Desktop\\Moviles\\AppNotas\\AppGitNotas\\AppGitNotas.Android\\AppGitNotas.Android.csproj": {}
+    "C:\\Users\\PERSONAL\\Desktop\\Francko\\Moviles\\AppNotas\\AppGitNotas\\AppGitNotas.Android\\AppGitNotas.Android.csproj": {}
   },
   "projects": {
-    "C:\\Users\\PERSONAL\\Desktop\\Moviles\\AppNotas\\AppGitNotas\\AppGitNotas.Android\\AppGitNotas.Android.csproj": {
+    "C:\\Users\\PERSONAL\\Desktop\\Francko\\Moviles\\AppNotas\\AppGitNotas\\AppGitNotas.Android\\AppGitNotas.Android.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\PERSONAL\\Desktop\\Moviles\\AppNotas\\AppGitNotas\\AppGitNotas.Android\\AppGitNotas.Android.csproj",
+        "projectUniqueName": "C:\\Users\\PERSONAL\\Desktop\\Francko\\Moviles\\AppNotas\\AppGitNotas\\AppGitNotas.Android\\AppGitNotas.Android.csproj",
         "projectName": "AppGitNotas.Android",
-        "projectPath": "C:\\Users\\PERSONAL\\Desktop\\Moviles\\AppNotas\\AppGitNotas\\AppGitNotas.Android\\AppGitNotas.Android.csproj",
+        "projectPath": "C:\\Users\\PERSONAL\\Desktop\\Francko\\Moviles\\AppNotas\\AppGitNotas\\AppGitNotas.Android\\AppGitNotas.Android.csproj",
         "packagesPath": "C:\\Users\\PERSONAL\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\PERSONAL\\Desktop\\Moviles\\AppNotas\\AppGitNotas\\AppGitNotas.Android\\obj\\",
+        "outputPath": "C:\\Users\\PERSONAL\\Desktop\\Francko\\Moviles\\AppNotas\\AppGitNotas\\AppGitNotas.Android\\obj\\",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
         "fallbackFolders": [
@@ -32,8 +32,8 @@
         "frameworks": {
           "monoandroid90": {
             "projectReferences": {
-              "C:\\Users\\PERSONAL\\Desktop\\Moviles\\AppNotas\\AppGitNotas\\AppGitNotas\\AppGitNotas.csproj": {
-                "projectPath": "C:\\Users\\PERSONAL\\Desktop\\Moviles\\AppNotas\\AppGitNotas\\AppGitNotas\\AppGitNotas.csproj"
+              "C:\\Users\\PERSONAL\\Desktop\\Francko\\Moviles\\AppNotas\\AppGitNotas\\AppGitNotas\\AppGitNotas.csproj": {
+                "projectPath": "C:\\Users\\PERSONAL\\Desktop\\Francko\\Moviles\\AppNotas\\AppGitNotas\\AppGitNotas\\AppGitNotas.csproj"
               }
             }
           }
@@ -54,14 +54,14 @@
         }
       }
     },
-    "C:\\Users\\PERSONAL\\Desktop\\Moviles\\AppNotas\\AppGitNotas\\AppGitNotas\\AppGitNotas.csproj": {
+    "C:\\Users\\PERSONAL\\Desktop\\Francko\\Moviles\\AppNotas\\AppGitNotas\\AppGitNotas\\AppGitNotas.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\PERSONAL\\Desktop\\Moviles\\AppNotas\\AppGitNotas\\AppGitNotas\\AppGitNotas.csproj",
+        "projectUniqueName": "C:\\Users\\PERSONAL\\Desktop\\Francko\\Moviles\\AppNotas\\AppGitNotas\\AppGitNotas\\AppGitNotas.csproj",
         "projectName": "AppGitNotas",
-        "projectPath": "C:\\Users\\PERSONAL\\Desktop\\Moviles\\AppNotas\\AppGitNotas\\AppGitNotas\\AppGitNotas.csproj",
+        "projectPath": "C:\\Users\\PERSONAL\\Desktop\\Francko\\Moviles\\AppNotas\\AppGitNotas\\AppGitNotas\\AppGitNotas.csproj",
         "packagesPath": "C:\\Users\\PERSONAL\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\PERSONAL\\Desktop\\Moviles\\AppNotas\\AppGitNotas\\AppGitNotas\\obj\\",
+        "outputPath": "C:\\Users\\PERSONAL\\Desktop\\Francko\\Moviles\\AppNotas\\AppGitNotas\\AppGitNotas\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"

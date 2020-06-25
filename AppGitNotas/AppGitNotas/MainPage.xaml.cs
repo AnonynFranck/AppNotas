@@ -52,8 +52,8 @@ namespace AppGitNotas
                 catch (Exception ex)
                 {
                     DisplayAlert("Error", ex.Message, "Ok");
+                    txteditor.Text = string.Empty;
                 }
-                txteditor.Text = string.Empty;
             }
         }
     }

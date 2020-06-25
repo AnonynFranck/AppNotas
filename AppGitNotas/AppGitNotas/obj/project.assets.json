@@ -610,11 +610,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\PERSONAL\\Desktop\\Moviles\\AppNotas\\AppGitNotas\\AppGitNotas\\AppGitNotas.csproj",
+      "projectUniqueName": "C:\\Users\\PERSONAL\\Desktop\\Francko\\Moviles\\AppNotas\\AppGitNotas\\AppGitNotas\\AppGitNotas.csproj",
       "projectName": "AppGitNotas",
-      "projectPath": "C:\\Users\\PERSONAL\\Desktop\\Moviles\\AppNotas\\AppGitNotas\\AppGitNotas\\AppGitNotas.csproj",
+      "projectPath": "C:\\Users\\PERSONAL\\Desktop\\Francko\\Moviles\\AppNotas\\AppGitNotas\\AppGitNotas\\AppGitNotas.csproj",
       "packagesPath": "C:\\Users\\PERSONAL\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\PERSONAL\\Desktop\\Moviles\\AppNotas\\AppGitNotas\\AppGitNotas\\obj\\",
+      "outputPath": "C:\\Users\\PERSONAL\\Desktop\\Francko\\Moviles\\AppNotas\\AppGitNotas\\AppGitNotas\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"
